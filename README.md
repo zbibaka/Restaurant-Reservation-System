@@ -24,27 +24,28 @@ Here is what you can do with it:
 ## 📸 Screenshots
 
 I know a picture is worth a thousand words! Since I'm always updating the look and feel, I've left this space for you to see what it actually looks like.
+<img width="1337" height="603" alt="Capture123" src="https://github.com/user-attachments/assets/c5ab4ded-f7ed-4014-b96f-37881b0a598d" />
 
-> **Adding Screenshots:**
-> If you are setting this up, you can drop your screenshots in an `assets/screenshots` folder or upload them to a file host.
-> Then, replace the text below with your image links!
 
 ### 🔹 The Dashboard
 *A view of the main dashboard where the magic happens.*
-<!-- Add your screenshot here: ![Dashboard](path/to/dashboard.png) -->
+<!-<img width="1317" height="528" alt="1234" src="https://github.com/user-attachments/assets/52058b55-f7a6-415f-a894-71d8689f26b6" />
 *(Place your screenshot link above)*
 
 ### 🔹 Making a Reservation
 *The simple form for adding a new booking.*
-<!-- Add your screenshot here: ![Reservation Form](path/to/reservation_form.png) -->
-*(Place your screenshot link above)*
+<img width="1352" height="574" alt="reser" src="https://github.com/user-attachments/assets/838788bf-982a-47ac-bcfe-51fbdb72e2b5" />
 
 ### 🔹 Table View
 *See at a glance which tables are free.*
-<!-- Add your screenshot here: ![Table List](path/to/table_list.png) -->
-*(Place your screenshot link above)*
+<img width="1349" height="570" alt="table" src="https://github.com/user-attachments/assets/a5644e33-2be0-48be-9abe-53fffdf340d6" />
 
----
+### 🔹 Table Client
+*See at the Clients .*
+<img width="1335" height="537" alt="Client" src="https://github.com/user-attachments/assets/cc0b771c-a58d-41c0-b005-9d684d2b99dc" />
+
+
+
 
 ## 🚀 Getting Started
 
@@ -52,8 +53,7 @@ Want to run this locally? Here is the quick version:
 
 1.  **Clone the repo**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/your-username/your-repo-name.git](https://github.com/zbibaka/Restaurant-Reservation-System
     ```
 
 2.  **Install Dependencies**
